@@ -53,6 +53,13 @@ std(): Standard deviation
 3. the features from ```train\X_train.txt```
 4. the labels numbers from ```train\y_train.txt```
 5. constructing the test set
-6. the subject number from ```test\subject_test.txt```
-7. the features from ```test\X_test.txt```
-8. the labels numbers from ```test\y_test.txt```
+6. We get the subject number from ```test\subject_test.txt```
+7. And the features from ```test\X_test.txt```
+8. And the labels numbers from ```test\y_test.txt```
+9. replacing the lables from numbers to their coresponding activity name
+10. setting the variables of the dataset (column names) from the ```features.txt``` file
+11. including only the Mean and STD measurement and neglicting the rest
+12. foing the steps 1:11 but for the test set
+13. by now we have a training set and test set
+14. merging the sets into one dataset
+15. getting the tidy data set by calculating the average of each variable for each activity and each subject
