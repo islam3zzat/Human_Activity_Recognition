@@ -42,7 +42,7 @@ The set of variables that were estimated from these signals are:
 mean(): Mean value
 std(): Standard deviation
 
-A complete lis of the variables will be found [here](https://github.com/islam3zzat/Human_Activity_Recognition/blob/master/Features.md)
+## A complete lis of the variables will be found [here](https://github.com/islam3zzat/Human_Activity_Recognition/blob/master/Features.md)
 
 
 
