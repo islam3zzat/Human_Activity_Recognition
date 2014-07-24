@@ -69,3 +69,5 @@ These signals were used to estimate variables of the feature vector for each pat
 mean(): Mean value
 std(): Standard deviation
 
+[for information about what the analysis files follow the link](https://github.com/islam3zzat/Human_Activity_Recognition/blob/master/CodeBook.md)
+
